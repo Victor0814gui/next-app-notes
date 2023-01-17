@@ -8,7 +8,15 @@
 
 <img src=".github/images/project-preview.png"/>
 
+## Technologies used
 
+- framer motion
+- nextjs
+
+### Future technologies
+- prisma
+- axios
+- graphcms
 
 ## Installation
 
@@ -16,3 +24,9 @@
 - yarn dev or npm run dev
 
 ## Contribute
+
+describe your commits, and try to use good practices.
+
+## Note
+
+the project is not yet documented, but I will document it soon
